@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 Current Role: Technical Support Tier 2<br><br>👯 Collaboration: I'm always eager to collaborate on open-source projects. If you're working on something interesting, feel free to reach out!<br><br>🤝 Seeking: I'm looking for guidance and opportunities to develop my skills further. Whether it's through mentoring or feedback, I'm open to learning from others.<br><br>🌱 Learning: I'm currently diving into the world of blockchain technology and expanding my knowledge in Cairo and Solidity.<br><br>💡 Fun Fact: I really enjoy providing support and get excited by the challenge of solving problems. It’s all about the thrill of finding solutions!
+🔭 Current Role: Technical Support Tier 2<br><br>🤝 Seeking: I'm looking for guidance and opportunities to develop my skills further. Whether it's through mentoring or feedback, I'm open to learning from others.<br><br>🌱 Learning: I'm currently diving into the world of blockchain technology and expanding my knowledge in Cairo and Solidity.<br><br>💡 I really enjoy providing support and get excited by the challenge of solving problems. It’s all about the thrill of finding solutions!
 
 
 ## 🌐 Socials:
